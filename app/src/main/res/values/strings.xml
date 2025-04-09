@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Memo Craft</string>
+
+    <string name="landing_page_title">Good bye \nmessy notes</string>
+    <string name="landing_page_text">Hello \nMemoCraft</string>
+    <string name="landing_page_detail">Keep your tasks and ideas organized, all in one place</string>
+
+    <string name="intro_landing1_title">Create easily</string>
+    <string name="intro_landing1_text">Welcome to Memo Craft – your all-in-one solution for advanced note-taking and task management! Here’s how to make the most of your experience:</string>
+
+    <string name="intro_landing2_title">Add your goals and to-do list</string>
+    <string name="intro_landing2_text">With MemoCraft, you can seamlessly manage your goals, tasks, and notes all in one place. Keep everything in sync across all your devices, so you’re always on top of your priorities, no matter where you are.</string>
+
+    <string name="intro_landing3_title">Keep your data up to date</string>
+    <string name="intro_landing3_text">Connect to your data anywhere and everywhere, you can access your data completely free on your mobile phone, computer screen and smart watch.</string>
+
+    <string name="intro_landing4_title">Collaborate with Ease</string>
+    <string name="intro_landing4_text">Share your notes and tasks effortlessly with colleagues, friends, or family. Work together in real-time and keep everyone on the same page, wherever they are.</string>
+
+    <string name="intro_landing5_title">Customize Your Experience</string>
+    <string name="intro_landing5_text">Make MemoCraft truly yours by customizing themes, colors, and settings. Tailor the app to match your style and workflow for a seamless experience.</string>
+
+    <string name="btn_getstated">Get Started</string>
+    <string name="btn_next">next</string>
+
+    <string name="intro_guide1">You are now on page 1 of 4 introduction pages</string>
+    <string name="intro_guide2">You are now on page 2 of 4 introduction pages</string>
+    <string name="intro_guide3">You are now on page 3 of 4 introduction pages</string>
+    <string name="intro_guide4">You are now on page 4 of 4 introduction pages</string>
+
+
+    <string name="animation_landing_page2">this is a animation for Add your goals and to-do list</string>
+    <string name="animation_landing_page3">this is a animation for Keep your data up to date</string>
+    <string name="animation_landing_page4">this is a animation for Collaborate with Ease</string>
+    <string name="animation_landing_page5">this is a animation for Customize Your Experience</string>
+
+
+
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="register_input_name">Enter your name:</string>
+    <string name="register_input_email">Enter your email:</string>
+    <string name="register_input_password">Enter  password:</string>
+    <string name="register_input_confirm_password">confirm your password:</string>
+    <string name="login_cheek_account">Don\'t have an account?</string>
+    <string name="signup_cheek_account">You have an account?</string>
+    <string name="signup_title">Sign Up</string>
+    <string name="login_title">Welcome Back!</string>
+    <string name="login_text">Login to continue Memo Craft</string>
+    <string name="back">Back</string>
+
+    <string name="btn_nav_note">Note</string>
+    <string name="btn_nav_task">Task</string>
+    <string name="btn_nav_search">Search</string>
+
+    <string name="img_description_menu">this is a button for app menu</string>
+    <string name="img_description_search">this is a button for searching</string>
+    <string name="img_description_addCategory">this is a button for add Category item</string>
+    <string name="img_description_showEvent_taskDone">this is a graph for show your Tasks Done</string>
+    <string name="img_description_showEvent_taskPoint">this is a graph for show your Tasks Point</string>
+    <string name="main_description_selectCategory">Select category</string>
+
+    <string name="main_description_overview">overview</string>
+
+</resources>

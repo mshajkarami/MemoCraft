@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MemoCraft" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/gradient_background</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:statusBarColor">@color/background_white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+
+    <style name="Widget.Material3.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/text_blue</item>
+        <item name="hintTextColor">@color/text_gray</item>
+        <item name="startIconTint">@color/text_blue</item>
+        <item name="boxBackgroundColor">@android:color/white</item>
+        <item name="boxBackgroundMode">outline</item>
+    </style>
+
+    <style name="Widget.AppCompat.TextInputEditText" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:textColor">@color/text_gray_light</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColorHint">@color/text_gray</item>
+    </style>
+
+
+    <style name="Theme.MemoCraft" parent="Base.Theme.MemoCraft" />
+
+    <style name="Theme.App.SplashScreen" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="windowSplashScreenBackground">@drawable/gradient_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_logo</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.MemoCraft</item>
+    </style>
+
+</resources>
